@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.header-text {
+	width: 40%;
+	margin-top: 5%;
+	float: left;
+	padding-left: 10%;
+}
+.header-text p {
+	padding-bottom: 20px;
+}
+  #color-text {
+    font-size: 36px;
+    font-weight: 700;
+    color: #ED5682;
+  }
+  .header-img {
+    width: 40%;
+    float: left;
+  }
+  img {
+    width: 95%;
+  }
+
+  
+.btn {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(180deg,#EC4F91,#EC4C78
+    );
+    color: #fff;
+    border-radius: 5px;
+  }
+  .btn:hover {
+    background-image: linear-gradient(180deg,lightsalmon,#EC4C78
+    );
+    box-shadow: 1px 3px 8px gray;
+  }
+  .header-bg{
+      background-image: url(images/header-bg.png);
+      background-repeat: no-repeat;
+      background-position: center;
+  }
+  
+section {
+    height: 500px;
+    
+    padding-bottom: 200px;
+  }
+  .biography-img {
+	width: 40%;
+	padding-left: 5%;
+	float: left;
+}
+  img {
+    width: 100%;
+  }
+  .biography-text {
+    width: 40%;
+    float: left;
+    padding-left: 10%;
+    margin-top: 5%;
+  }
+  .biography-text h2 {
+    font-size: 30px;
+  }
+  .biography-text p{
+      padding-bottom: 20px;
+      padding-right: 20px;
+  }
+  .Biography-bg {
+	background-image: url(images/biography-bg.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.update-area h1 {
+	font-size: 36px;
+	text-align: center;
+}
+
+.img {
+    width: 30%;
+    float: left;
+    padding: 10px;
+  }
+  .img-area {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  .update-area {
+    padding: 50px;
+  }
+  .footer-bg{
+      background-image: url(images/footer-bg.png);
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: cover;
+  }
+  .cta-text-area {
+	text-align: center;
+}
+.cta-text-area h4 {
+	color: #8B8B8B;
+}
+.contact-mail {
+	text-align: center;
+	padding: 27px;
+	background-image: linear-gradient(180deg,#EC5299,#ED4B6F);
+	margin: 8% 20%;
+	border-radius: 5px;
+	color: #fff;
+}
+
+.copyright {
+    text-align: center;
+    color: #707070;
+  }
